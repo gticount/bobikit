@@ -4,7 +4,7 @@
   "description": "react course",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "ankit",
   "license": "ISC",
