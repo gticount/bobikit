@@ -1,0 +1,194 @@
+[
+  {
+    "user": "64c3702ea8c7c4e9a5db23ff",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-101.9675",
+        "-51.2479"
+      ],
+      "address": "42720 Curt Village",
+      "description": "Praesentium non corporis cupiditate qui."
+    },
+    "createdAt": "2023-07-27T18:30:48.459Z",
+    "caption": "Commodi optio dolorem nihil quibusdam dolor minima.",
+    "likes": 88,
+    "content": "../images/1.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db2405",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-62.9936",
+        "-0.5480"
+      ],
+      "address": "03334 Volkman Viaduct",
+      "description": "Facilis rerum explicabo dignissimos repellat."
+    },
+    "createdAt": "2023-07-27T16:55:20.770Z",
+    "caption": "Eveniet provident corporis consequatur repellendus recusandae magni velit ab.",
+    "likes": 35,
+    "content": "../images/2.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db2406",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-137.5635",
+        "17.3615"
+      ],
+      "address": "056 Kyleigh Field",
+      "description": "Quia ipsa ab quia fugiat."
+    },
+    "createdAt": "2023-07-28T05:44:13.313Z",
+    "caption": "Ut ut rem ipsa impedit.",
+    "likes": 4,
+    "content": "../images/3.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db240a",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-164.8014",
+        "-36.9720"
+      ],
+      "address": "17708 Garrick Motorway",
+      "description": "Qui iusto minus temporibus odit aperiam voluptas voluptates facilis magnam."
+    },
+    "createdAt": "2023-07-27T14:17:59.756Z",
+    "caption": "Et sapiente accusamus amet ut eum ut.",
+    "likes": 56,
+    "content": "../images/4.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db2400",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "127.1341",
+        "-36.6517"
+      ],
+      "address": "4239 Andres Garden",
+      "description": "Suscipit consequatur dolores molestias itaque harum eos consequatur."
+    },
+    "createdAt": "2023-07-27T14:46:55.130Z",
+    "caption": "Non veritatis qui nihil atque voluptas.",
+    "likes": 78,
+    "content": "../images/5.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db2402",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "117.2582",
+        "-49.3416"
+      ],
+      "address": "0960 Considine Shore",
+      "description": "Ut quia aut architecto exercitationem aliquam facilis pariatur cumque aut."
+    },
+    "createdAt": "2023-07-28T00:52:15.962Z",
+    "caption": "Reprehenderit quia nulla.",
+    "likes": 82,
+    "content": "../images/6.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db2407",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-54.1465",
+        "-34.8281"
+      ],
+      "address": "71809 Angel Harbor",
+      "description": "Et error voluptate aperiam."
+    },
+    "createdAt": "2023-07-27T15:11:01.795Z",
+    "caption": "Sed laboriosam quia aut perspiciatis occaecati deserunt.",
+    "likes": 96,
+    "content": "../images/7.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db2409",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-107.0216",
+        "36.6107"
+      ],
+      "address": "9731 Hamill Walks",
+      "description": "Quae molestias sed dolorem provident voluptatem quasi."
+    },
+    "createdAt": "2023-07-27T13:46:08.784Z",
+    "caption": "Quis voluptatem quidem commodi dolor et.",
+    "likes": 4,
+    "content": "../images/8.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db240e",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "167.7567",
+        "-50.2655"
+      ],
+      "address": "77015 Demetris Shores",
+      "description": "Ut enim temporibus velit occaecati nam repellat."
+    },
+    "createdAt": "2023-07-27T14:41:28.846Z",
+    "caption": "Odit laborum quam ut sed modi harum velit beatae.",
+    "likes": 81,
+    "content": "../images/9.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db240f",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-35.7222",
+        "-16.5457"
+      ],
+      "address": "136 Don Row",
+      "description": "Soluta aliquam error ipsum dolorum qui fugiat iusto enim harum."
+    },
+    "createdAt": "2023-07-28T01:46:08.930Z",
+    "caption": "Soluta similique quam ducimus corrupti.",
+    "likes": 51,
+    "content": "../images/10.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db23fc",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "32.5489",
+        "-80.4544"
+      ],
+      "address": "67954 Aditya Mountain",
+      "description": "Earum sit aut ut ipsam quod repellat cupiditate quod aut."
+    },
+    "createdAt": "2023-07-27T11:59:24.275Z",
+    "caption": "Aliquam suscipit aperiam explicabo molestiae debitis sed.",
+    "likes": 18,
+    "content": "../images/11.jpg"
+  },
+  {
+    "user": "64c3702ea8c7c4e9a5db23fe",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-76.1740",
+        "79.9478"
+      ],
+      "address": "4433 Lorna Village",
+      "description": "Dolorem neque voluptatem modi aut vero."
+    },
+    "createdAt": "2023-07-27T09:51:57.728Z",
+    "caption": "Sapiente molestiae quod in ut rerum ipsum.",
+    "likes": 23,
+    "content": "../images/12.jpg"
+  }
+]
